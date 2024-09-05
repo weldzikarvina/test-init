@@ -1,2 +1,1 @@
-# test-init
-init test repo
+first git
